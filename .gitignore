@@ -1,0 +1,5 @@
+.vscode/
+src/classes/__pycache__/
+src/modules/__pycache__/
+/database/db_config.laccdb
+src/__pycache__
